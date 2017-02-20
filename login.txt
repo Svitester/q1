@@ -1,0 +1,14 @@
+Login Page
+label: user name
+Label: password  (add help for users such as letters. numbers and special symbols)
+confirm button: yes, cancel
+ qqqqqqqqqqq
+add languages buttons
+eng, bg, ukr
+
+the end
+
+
+
+
+

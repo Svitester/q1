@@ -1,0 +1,9 @@
+Logout button
+(colors, size, place)
+if click - popup the warning window with two buttons^
+button1: yes
+button2: cancel
+qqqqqqqqqqqq
+the end
+
+

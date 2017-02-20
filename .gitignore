@@ -1,0 +1,6 @@
+# folder logs
+logs/
+# zip files
+docs/*.zip
+
+

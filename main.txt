@@ -1,0 +1,6 @@
+header area
+=============
+main area
+============
+footer area
+17/03/2017 lesson4 - add new files

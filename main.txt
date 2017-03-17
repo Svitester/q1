@@ -1,5 +1,0 @@
-header area
-=============
-main area
-============
-footer area
